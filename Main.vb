@@ -21,7 +21,7 @@ Public Class Form1
             File.Delete(eskiDosyaYolu)
         End If
         ' İndirmek istediğiniz GIF dosyasının URL'sini belirtin
-        Dim gifUrl As String = "https://raw.githubusercontent.com/turkuvazbiri/WoTLK-Turk-Client/main/thumb-wotlk.gif"
+        Dim gifUrl As String = "https://raw.githubusercontent.com/turkuvazbiri/WoTLK-Turk-s-Launcher/main/thumb-wotlk.gif"
 
         ' Dosyanın indirileceği yerel dosya yolu
         Dim localFilePath As String = Path.Combine(Application.StartupPath, "thumb.gif")
