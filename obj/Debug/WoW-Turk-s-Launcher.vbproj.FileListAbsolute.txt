@@ -1,0 +1,13 @@
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW_Turk_s_Launcher.Form1.resources
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW_Turk_s_Launcher.Resources.resources
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW-Turk-s-Launcher.vbproj.GenerateResource.cache
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW-Turk-s-Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\bin\Debug\WoW-Turk-s-Launcher.exe.config
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\bin\Debug\WoW-Turk-s-Launcher.exe
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\bin\Debug\WoW-Turk-s-Launcher.pdb
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\bin\Debug\WoW-Turk-s-Launcher.xml
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW-Turk-s-Launcher.exe
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW-Turk-s-Launcher.xml
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW-Turk-s-Launcher.pdb
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW_Turk_s_Launcher.Ayar.resources
+C:\Users\koray abinin pc\source\repos\WoW-Turk-s-Client\obj\Debug\WoW-Turk-s-Launcher.vbproj.AssemblyReference.cache
